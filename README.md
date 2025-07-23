@@ -1,1 +1,17 @@
-# **[FLACloader - YT](javascript%3A%28%28%29%3D%3E%7Bvar%20s%3Ddocument.createElement%28%27script%27%29%3Bs.src%3D%27https%3A%2F%2Fraw.githubusercontent.com%2FJVEtree%2FFLACloader%2Frefs%2Fheads%2Fmain%2FJS%27%3Bdocument.body.appendChild%28s%29%3B%7D%29%28%29%0A)**
+# **FLACloader**
+
+## First get the Bookmarklet (drag and drop to bookmark's bar)
+
+
+
+# 🚀 GET Bookmarklet --> [**FLACloader - YT**](https://jvetree.github.io/FLACloader/)
+
+## Let the script get all the videos in the playlist
+
+# RUN FLACloader.exe
+
+## Once finished --> Download the JSON file containing all video URLs
+
+
+
+
