@@ -1,1 +1,1 @@
-# **[FLACloader - YT](javascript%3A%28function%28%29%7B%0A%20%20var%20s%3Ddocument.createElement%28%27script%27%29%3B%0A%20%20s.src%3D%27https%3A%2F%2Fyour-public-url%2FJSCode.js%27%3B%0A%20%20document.body.appendChild%28s%29%3B%0A%7D%29%28%29%3B)**
+# **[FLACloader - YT](javascript%3A%28%28%29%3D%3E%7Bvar%20s%3Ddocument.createElement%28%27script%27%29%3Bs.src%3D%27https%3A%2F%2Fraw.githubusercontent.com%2FJVEtree%2FFLACloader%2Frefs%2Fheads%2Fmain%2FJS%27%3Bdocument.body.appendChild%28s%29%3B%7D%29%28%29%0A)**
